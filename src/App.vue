@@ -22,7 +22,7 @@ import SearchPersonsForm from '@/components/partials/SearchPersonsForm'
 
 export default {
   name: 'app',
-  personsApiURL: 'http://nameless-waterfall-9048.getsandbox.com/users',
+  personsApiURL: 'https://nameless-waterfall-9048.getsandbox.com/users',
   components: {
     'search-persons-form': SearchPersonsForm
   }

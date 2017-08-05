@@ -1,6 +1,6 @@
 # vue-persons
 
-> CRUD actions with React.js & React Semantic UI
+> CRUD actions (+ search) with Vue.js & React Semantic UI
 
 ## Build Setup
 
